@@ -9,7 +9,7 @@
     "start": "http-server -c-1"
   },
   "keywords": [],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Maximilian Schwarzmüller & Henry Wan",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^14.1.0",
